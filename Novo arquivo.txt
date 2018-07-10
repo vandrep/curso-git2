@@ -1,1 +1,4 @@
 Aqui tem coragem
+E também tem teste do rebase
+Aqui embaixo
+Pequenos e grandes commits

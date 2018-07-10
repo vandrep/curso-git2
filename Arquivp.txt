@@ -2,3 +2,7 @@ Ok! -> Esse texto está sendo incluido para não conflitar! testes de rebase
 Isso aí
 Mais text pra lá
 e par cá também
+
+Aqui vou acrescentar as linhas para testar o rebase
+Explicação do git rebase
+obções do git rebase
